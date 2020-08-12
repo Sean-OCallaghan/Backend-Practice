@@ -1,5 +1,4 @@
 module.exports = {
-    apiKey: "AIzaSyBipQvSsn9GB2kcmMO2dN5trnHdtBPAC1Q",
     authDomain: "myfloor-521c5.firebaseapp.com",
     databaseURL: "https://myfloor-521c5.firebaseio.com",
     projectId: "myfloor-521c5",
